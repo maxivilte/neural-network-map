@@ -13,7 +13,7 @@
 
 [🇺🇸 English](#english) · [🇦🇷 Español](#español)
 
-![NNM Main](docs/2026-03-08%20(9).png)
+![NNM Main](docs/screenshot_main.png)
 
 </div>
 
@@ -23,15 +23,15 @@
 
 | Cyberpunk GUI — Honeypot + Radar + Timeline | Matrix Theme — Router selected |
 |:---:|:---:|
-| ![Main GUI](docs/2026-03-08%20(9).png) | ![Matrix Theme](docs/2026-03-08%20(13).png) |
+| ![Main GUI](docs/screenshot_main.png) | ![Matrix Theme](docs/screenshot_matrix.png) |
 
 | Web Dashboard — Device List + 3D Globe | 3D Globe — Live connections from Argentina |
 |:---:|:---:|
-| ![Dashboard](docs/2026-03-08%20(10).png) | ![Globe](docs/2026-03-08%20(11).png) |
+| ![Dashboard](docs/screenshot_dashboard.png) | ![Globe](docs/screenshot_globe.png) |
 
 | System Tab — Active modules + ML + Plugins + IDS Alerts |
 |:---:|
-| ![System](docs/2026-03-08%20(12).png) |
+| ![System](docs/screenshot_system.png) |
 
 ---
 
