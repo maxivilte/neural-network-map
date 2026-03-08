@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Entorno virtual
+venv/
+env/
+.env
+
+# Base de datos y logs
+*.db
+*.sqlite
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y comprimidos
+*.tar.gz
+*.zip
+*.rar
+
+# Instaladores
+*.exe
+*.msi
+
+# PDFs de desarrollo
+*.pdf
+
+# Carpetas duplicadas/viejas
+neural_network_map/
+(core,ui,modules,assets,config,logs)/
+
+# Caché de compilación
+*.cpython-*.pyc
