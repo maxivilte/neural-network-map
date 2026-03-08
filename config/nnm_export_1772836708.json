@@ -1,0 +1,275 @@
+{
+  "exported_at": "2026-03-06 19:38:28",
+  "version": "2.0",
+  "summary": {
+    "total_devices": 10,
+    "active_devices": 5,
+    "offline_devices": 5,
+    "total_alerts": 10,
+    "traffic_samples": 51,
+    "oldest_device": {
+      "ip": "192.168.1.1",
+      "first_seen": 1772776223.3918142
+    }
+  },
+  "devices": [
+    {
+      "ip": "192.168.1.59",
+      "mac": "CA:38:93:F2:B0:A5",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772776223.4364467,
+      "last_seen": 1772836658.7162883,
+      "times_seen": 114,
+      "status": "active"
+    },
+    {
+      "ip": "192.168.1.20",
+      "mac": "3E:B3:88:46:1C:7F",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "phone",
+      "os_info": "Linux/Android",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772777924.9088032,
+      "last_seen": 1772836658.70827,
+      "times_seen": 108,
+      "status": "active"
+    },
+    {
+      "ip": "192.168.1.9",
+      "mac": "CC:6E:A4:89:BD:01",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "Linux 3.2 - 4.14",
+      "is_gateway": 0,
+      "open_ports": "[8080]",
+      "first_seen": 1772776223.417394,
+      "last_seen": 1772836658.6859193,
+      "times_seen": 81,
+      "status": "active"
+    },
+    {
+      "ip": "192.168.1.4",
+      "mac": "FC:AA:14:B2:1F:B8",
+      "hostname": "DESKTOP-EIOHQ1O",
+      "vendor": "Samsung",
+      "device_type": "windows_pc",
+      "os_info": "Microsoft Windows 10 1803",
+      "is_gateway": 0,
+      "open_ports": "[5357]",
+      "first_seen": 1772832773.3544478,
+      "last_seen": 1772836658.6718729,
+      "times_seen": 47,
+      "status": "active"
+    },
+    {
+      "ip": "192.168.1.1",
+      "mac": "1C:3C:D4:F8:8D:47",
+      "hostname": "dev",
+      "vendor": "TP-Link",
+      "device_type": "router",
+      "os_info": "Linux 5.4",
+      "is_gateway": 1,
+      "open_ports": "[53, 80]",
+      "first_seen": 1772776223.3918142,
+      "last_seen": 1772836658.6623611,
+      "times_seen": 119,
+      "status": "active"
+    },
+    {
+      "ip": "192.168.1.7",
+      "mac": "DE:DB:9D:C6:56:9F",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772776223.4118767,
+      "last_seen": 1772836534.8998492,
+      "times_seen": 117,
+      "status": "offline"
+    },
+    {
+      "ip": "192.168.1.2",
+      "mac": "64:1C:B0:69:41:20",
+      "hostname": "Unknown",
+      "vendor": "Xiaomi",
+      "device_type": "phone",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772832773.3372436,
+      "last_seen": 1772836086.82459,
+      "times_seen": 40,
+      "status": "offline"
+    },
+    {
+      "ip": "192.168.1.5",
+      "mac": "4A:83:21:5A:AF:A9",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772776223.4073627,
+      "last_seen": 1772834665.3859985,
+      "times_seen": 88,
+      "status": "offline"
+    },
+    {
+      "ip": "192.168.1.43",
+      "mac": "AA:7E:B2:12:89:AE",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772776223.4319305,
+      "last_seen": 1772783769.2891514,
+      "times_seen": 72,
+      "status": "offline"
+    },
+    {
+      "ip": "192.168.1.12",
+      "mac": "62:2A:35:55:33:FB",
+      "hostname": "Unknown",
+      "vendor": "Unknown",
+      "device_type": "unknown",
+      "os_info": "",
+      "is_gateway": 0,
+      "open_ports": "[]",
+      "first_seen": 1772776223.4264145,
+      "last_seen": 1772783769.2049234,
+      "times_seen": 72,
+      "status": "offline"
+    }
+  ],
+  "alerts": [
+    {
+      "ip": "192.168.1.7",
+      "message": "Dispositivo desconectado: 192.168.1.7",
+      "severity": "INFO",
+      "timestamp": 1772836596.5564969
+    }
+  ],
+  "activity": [
+    {
+      "ip": "192.168.1.41",
+      "service": "Twitch",
+      "category": "streaming",
+      "age": "25s"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "TikTok",
+      "category": "social",
+      "age": "33s"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "WhatsApp",
+      "category": "chat",
+      "age": "48s"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "Google API",
+      "category": "search",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "Google",
+      "category": "search",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "Cloudflare",
+      "category": "cdn",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "Windows Update",
+      "category": "system",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "OneDrive",
+      "category": "cloud",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.41",
+      "service": "Akamai CDN",
+      "category": "cdn",
+      "age": "4m"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Twitch",
+      "category": "streaming",
+      "age": "25s"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Google API",
+      "category": "search",
+      "age": "30s"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "TikTok",
+      "category": "social",
+      "age": "33s"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "WhatsApp",
+      "category": "chat",
+      "age": "48s"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Google",
+      "category": "search",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Cloudflare",
+      "category": "cdn",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Windows Update",
+      "category": "system",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "OneDrive",
+      "category": "cloud",
+      "age": "3m"
+    },
+    {
+      "ip": "192.168.1.1",
+      "service": "Akamai CDN",
+      "category": "cdn",
+      "age": "4m"
+    }
+  ]
+}

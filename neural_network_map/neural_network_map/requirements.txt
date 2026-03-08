@@ -1,0 +1,28 @@
+# Neural Network Map - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scanning
+scapy>=2.5.0          # Advanced packet crafting and ARP scanning
+psutil>=5.9.0         # System/network stats
+
+# Graph
+networkx>=3.0         # Graph topology engine
+
+# Visualization
+pygame>=2.5.0         # Main rendering engine (GPU-accelerated)
+pygame-ce>=2.4.0      # Optional: community edition for better performance
+
+# Data
+numpy>=1.24.0         # Numerical operations for animations
+
+# Optional: Matplotlib for export/analysis
+matplotlib>=3.7.0
+
+# Optional: 3D future module
+# pyopengl>=3.1.7
+# pyopengl-accelerate>=3.1.7
+# moderngl>=5.8.0
+
+# Optional: Web dashboard (future)
+# flask>=3.0.0
+# flask-socketio>=5.3.0
